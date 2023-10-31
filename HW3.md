@@ -15,3 +15,4 @@
 3:5秒內反應時間
 
 # FDD圖
+![PERT](FDD.png "FDD圖")
