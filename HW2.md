@@ -19,3 +19,5 @@ gantt
 [更多關於 **mermaid** 語法 <i class="fa fa-external-link"></i>](http://mermaid-js.github.io/mermaid)
 &nbsp;
 &nbsp;
+# PERT圖
+![PERT](PERT_HW2.png "PERT圖")
