@@ -9,9 +9,9 @@ gantt
     項目規劃          :a2, after a1  , 4d
     任務分配          :a3, after a2  , 4d
     建置開發環境          :a4, after a3 , 3d
-    前端          :a5, after a4  , 30d
-    資料庫          :a6, after a4  , 30d
-    後端      :a7, after a4  , 30d
+    前端          :a5, after a4  , 60d
+    資料庫          :a6, after a4  , 60d
+    後端      :a7, after a4  , 60d
     測試系統          :a8, after a7  , 7d
     發布系統          :a9, after a8  , 1d
     
