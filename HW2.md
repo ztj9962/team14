@@ -21,3 +21,5 @@ gantt
 &nbsp;
 # PERT圖
 ![PERT](PERT_HW2.png "PERT圖")
+##關鍵路徑
+## 1-2-3-4-7-8-9
