@@ -1,3 +1,3 @@
-## ERP  
-![ERP](ERP.png)
+## ER
+![ERD](ERD.png)
 
